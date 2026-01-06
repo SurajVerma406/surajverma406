@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Suraj.
 
 ## 💫 About Me:
-🔭 I’m currently working MERN stack projects<br>🌱 I’m currently learning Advanced Javascript, React, TailwindCss.<br>💬 Ask me about JavaScript, React, Git/GitHub basics, MERN stack, and frontend development.<br>
+🔭 I’m currently working MERN stack projects<br>🌱 I’m currently learning Advanced Javascript, React, TailwindCSS.<br>💬 Ask me about JavaScript, React, TailwindCSS, Git/GitHub basics, and frontend development.<br>
 
 
 ## 🌐 Socials:
